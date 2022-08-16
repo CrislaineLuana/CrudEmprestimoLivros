@@ -1,0 +1,35 @@
+﻿@model EmprestimosModel
+@{
+	ViewData["title"] = "Editar empréstimo";
+}
+
+
+
+<div class="container bg-dark p-5 rounded-5">
+    <div class="mb-5 text-center">
+        <h1 class="text-light" >Edição de Empréstimos</h1>
+    </div>
+	<form method="post" asp-controller="Emprestimo" asp-action="Editar">
+           <input type="hidden" asp-for=Id />
+          <div class="mb-3">
+            <label for="Recebedor" class="form-label text-light">Recebedor:</label>
+            <input type="text"  asp-for="Recebedor" class="shadow-none form-control" id="exampleInputRecebedor" placeholder="Quem está recebendo o livro?" >
+            <span class="text-danger" asp-validation-for="Recebedor" ></span>
+          </div>
+          <div class="mb-3">
+            <label for="Fornecedor" class="form-label text-light">Fornecedor:</label>
+            <input asp-for="Fornecedor" type="text" class="shadow-none form-control" id="exampleInputFornecedor" placeholder="Quem está emprestando o livro?" >
+            <span class="text-danger" asp-validation-for="Fornecedor" ></span>
+          </div>
+          <div class="mb-3">
+            <label class="form-label text-light" for="LivroEmprestado">Livro:</label>
+            <input type="text" asp-for="LivroEmprestado" class="shadow-none form-control" id="exampleInputLivroEmprestado" placeholder="Qual livro está sendo emprestado?" >
+            <span class="text-danger" asp-validation-for="LivroEmprestado" ></span>
+          </div>
+          <div class="d-flex gap-5 mt-5">
+              <button type="submit" class="w-50 btn btn-success">Editar</button>
+              <a class="w-50 btn btn-primary" asp-controller="Emprestimo" asp-action="Index" >Voltar</a>
+           </div>   
+      </form>
+</div>
+

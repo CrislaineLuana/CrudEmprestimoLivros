@@ -1,0 +1,56 @@
+﻿@model IEnumerable<EmprestimosModel>
+@{
+	ViewData["title"] = "Emprestimos";
+}
+
+<div class="container ">
+
+    <div class="d-flex justify-content-between align-items-center mb-5" >
+       <h1>Empréstimos</h1>
+        <a class="btn btn-success mx-2" asp-controller="Emprestimo" asp-action="Cadastrar"  ><i class="bi bi-file-earmark-plus"></i>Cadastar novo empréstimo</a>
+    </div>
+    @if(TempData["MensagemSucesso"] != null){
+        <div class="alert alert-success text-light" role="alert">
+          @TempData["MensagemSucesso"]
+        </div>
+    }
+
+    @if(TempData["MensagemErro"] != null){
+        <div class="alert alert-danger text-light" role="alert">
+          @TempData["MensagemErro"]
+        </div>
+    }
+
+
+    <table id="Emprestimos"  class="table table-light table-hover mt-5">
+        <br />
+       <thead>
+        <tr>
+          <th scope="col">Recebedor</th>
+          <th scope="col">Fornecedor</th>
+          <th scope="col">Livro</th>
+          <th scope="col">Última atualização</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+
+          @if(Model != null){
+              @foreach(var emprestimo in Model)
+                {
+                    <tr  >
+                      <th scope="row">@emprestimo.Recebedor</th>
+                      <td>@emprestimo.Fornecedor</td>
+                      <td>@emprestimo.LivroEmprestado</td>
+                      <td>@emprestimo.DataEmprestimo</td>
+                      <td>
+                          <a class="btn btn-warning mx-2" asp-controller="Emprestimo" asp-action="Editar" asp-route-id="@emprestimo.Id"  ><i class="bi bi-pencil-square"></i>Editar</a>
+                          <a class="btn btn-danger mx-2"  asp-controller="Emprestimo"  asp-action="Excluir" asp-route-id="@emprestimo.Id" ><i class="bi bi-trash3-fill"></i>Excluir</a>
+                      </td>
+                    </tr>
+                }
+            }
+    
+      </tbody>
+    </table>
+</div>

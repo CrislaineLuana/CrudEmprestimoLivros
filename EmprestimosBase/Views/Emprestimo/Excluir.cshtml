@@ -1,0 +1,33 @@
+﻿@model EmprestimosModel
+@{
+	TempData["title"] = "Excluir empréstimos";
+}
+
+<div class="container bg-dark p-5 rounded-5">
+    <div class="mb-5 text-center">
+        <h1 class="text-light" >Exclusão de Empréstimos</h1>
+    </div>
+	<form method="post" asp-controller="Emprestimo" asp-action="Excluir">
+           <input type="hidden" asp-for=Id />
+           <h2>Tem certeza que deseja excluir o registro abaixo??</h2>
+          <div class="mb-3">
+            <label for="Recebedor" class="text-light form-label">Recebedor:</label>
+            <input type="text"  asp-for="Recebedor" class="shadow-none form-control text-dark" id="exampleInputRecebedor" placeholder="Quem está recebendo o livro?" disabled>
+            <span class="text-danger" asp-validation-for="Recebedor" ></span>
+          </div>
+          <div class="mb-3">
+            <label for="Fornecedor" class="text-light form-label">Fornecedor:</label>
+            <input asp-for="Fornecedor" type="text" class="shadow-none form-control text-dark" id="exampleInputFornecedor" placeholder="Quem está emprestando o livro?" disabled>
+            <span class="text-danger" asp-validation-for="Fornecedor" ></span>  
+        </div>
+          <div class="mb-3">
+            <label class="text-light form-label" for="LivroEmprestado">Livro:</label>
+            <input type="text" asp-for="LivroEmprestado" class="shadow-none form-control text-dark" id="exampleInputLivroEmprestado" placeholder="Qual livro está sendo emprestado?" disabled>
+            <span class="text-danger" asp-validation-for="LivroEmprestado" ></span>  
+        </div>
+          <div class="d-flex gap-5 mt-5" > 
+              <button type="submit" class="w-50 btn btn-danger">Excluir</button>
+              <a class="w-50 btn btn-primary" asp-controller="Emprestimo" asp-action="Index" >Voltar</a>
+          </div>  
+      </form>
+</div>
