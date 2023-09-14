@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmprestimosBase
 build_property.RootNamespace = EmprestimosBase
-build_property.ProjectDir = C:\Users\User\Source\Repos\CrudEmprestimoLivros\EmprestimosBase\
+build_property.ProjectDir = C:\Users\User\source\repos\CrudEmprestimoLivros\EmprestimosBase\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Source\Repos\CrudEmprestimoLivros\EmprestimosBase
+build_property.MSBuildProjectDirectory = C:\Users\User\source\repos\CrudEmprestimoLivros\EmprestimosBase
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/Emprestimo/Cadastrar.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/Emprestimo/Cadastrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xDYWRhc3RyYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/Emprestimo/Editar.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/Emprestimo/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xFZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/Emprestimo/Excluir.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/Emprestimo/Excluir.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xFeGNsdWlyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/Emprestimo/Index.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/Emprestimo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzdGltb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/Home/Index.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/Shared/Error.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/_ViewImports.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/_ViewStart.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Source/Repos/CrudEmprestimoLivros/EmprestimosBase/Views/Shared/_Layout.cshtml]
+[C:/Users/User/source/repos/CrudEmprestimoLivros/EmprestimosBase/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n15y7heu8f
