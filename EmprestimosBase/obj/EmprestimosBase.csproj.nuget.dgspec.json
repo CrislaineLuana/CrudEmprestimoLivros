@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\",
+=======
+    "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\EmprestimosBase.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\EmprestimosBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\EmprestimosBase.csproj",
+        "projectName": "EmprestimosBase",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\EmprestimosBase.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
