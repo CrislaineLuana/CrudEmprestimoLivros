@@ -11,7 +11,11 @@ namespace EmprestimosBase.Models
         public string Fornecedor { get; set; }
         [Required(ErrorMessage = "Digite o nome do Livro!")]
         public string LivroEmprestado { get; set; }
-        public DateTime DataEmprestimo { get; set; } = DateTime.Now;
+<<<<<<< Updated upstream
+        public DateTime DataEmprestimo { get; set; } 
+=======
+        public DateTime DataEmprestimo { get; set; }
+>>>>>>> Stashed changes
 
     }
 }

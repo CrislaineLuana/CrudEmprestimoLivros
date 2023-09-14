@@ -1,6 +1,10 @@
 {
   "Version": 1,
-  "Hash": "cEU7RWVXZ4ifxfQeaUCs/1DwT99nsenjdiLOx93XpYg=",
+<<<<<<< Updated upstream
+  "Hash": "O42Jn3LUVZsVNotyBAGgDqmyVZZZi5EX+Ql2hB6vIuw=",
+=======
+  "Hash": "/OUizsnRdEbAcspsYyyoEchV0XAWpAunri6Q69ssU6o=",
+>>>>>>> Stashed changes
   "Source": "EmprestimosBase",
   "BasePath": "_content/EmprestimosBase",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "EmprestimosBase\\wwwroot",
       "Source": "EmprestimosBase",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+<<<<<<< Updated upstream
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmprestimosBase.styles.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmprestimosBase.styles.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmprestimosBase.styles.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "EmprestimosBase.styles.css",
       "AssetKind": "All",
@@ -31,13 +46,23 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmprestimosBase.styles.css"
+<<<<<<< Updated upstream
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmprestimosBase.styles.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimosBase.bundle.scp.css",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimosBase.bundle.scp.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EmprestimosBase.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimosBase.bundle.scp.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "EmprestimosBase.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +73,23 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimosBase.bundle.scp.css"
+<<<<<<< Updated upstream
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimosBase.bundle.scp.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\css\\darklyTheme.css",
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\css\\darklyTheme.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimosBase.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\css\\darklyTheme.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "css/darklyTheme.css",
       "AssetKind": "All",
@@ -68,10 +103,17 @@
       "OriginalItemSpec": "wwwroot\\css\\darklyTheme.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\css\\site.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\css\\site.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\css\\site.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +127,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\favicon.ico",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\favicon.ico",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\favicon.ico",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +151,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\img\\read_book_study_icon-icons.com_51077.png",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\img\\read_book_study_icon-icons.com_51077.png",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\img\\read_book_study_icon-icons.com_51077.png",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "img/read_book_study_icon-icons.com_51077.png",
       "AssetKind": "All",
@@ -119,10 +175,17 @@
       "OriginalItemSpec": "wwwroot\\img\\read_book_study_icon-icons.com_51077.png"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\js\\site.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\js\\site.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\js\\site.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -136,10 +199,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -153,10 +223,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -170,10 +247,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -187,10 +271,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -204,10 +295,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -221,10 +319,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -238,10 +343,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -255,10 +367,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -272,10 +391,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -289,10 +415,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -306,10 +439,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -323,10 +463,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -340,10 +487,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -357,10 +511,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -374,10 +535,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -391,10 +559,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -408,10 +583,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -425,10 +607,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -442,10 +631,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -459,10 +655,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -476,10 +679,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -493,10 +703,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -510,10 +727,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -527,10 +751,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -544,10 +775,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -561,10 +799,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -578,10 +823,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -595,10 +847,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -612,10 +871,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -629,10 +895,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -646,10 +919,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -663,10 +943,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -680,10 +967,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -697,10 +991,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -714,10 +1015,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -731,10 +1039,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -748,10 +1063,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -765,10 +1087,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -782,10 +1111,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -799,10 +1135,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -816,10 +1159,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -833,10 +1183,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -850,10 +1207,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -867,10 +1231,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -884,10 +1255,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\LICENSE",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -901,10 +1279,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -918,10 +1303,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -935,10 +1327,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -952,10 +1351,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery\\LICENSE.txt",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -969,10 +1375,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -986,10 +1399,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1003,10 +1423,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1020,10 +1447,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1037,10 +1471,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1054,10 +1495,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1071,10 +1519,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1088,10 +1543,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+<<<<<<< Updated upstream
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "EmprestimosBase",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\C#\\ProjetosC#\\EmprestimosBase\\EmprestimosBase\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "EmprestimosBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\wwwroot\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/EmprestimosBase",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
