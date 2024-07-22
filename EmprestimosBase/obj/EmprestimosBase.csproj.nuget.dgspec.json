@@ -1,37 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< Updated upstream
-    "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj": {}
+    "C:\\Users\\Usuário\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj": {
+    "C:\\Users\\Usuário\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj",
+        "projectUniqueName": "C:\\Users\\Usuário\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj",
         "projectName": "EmprestimosBase",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\",
-=======
-    "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\EmprestimosBase.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\EmprestimosBase.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\EmprestimosBase.csproj",
-        "projectName": "EmprestimosBase",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\EmprestimosBase.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\CrudEmprestimoLivros-video\\EmprestimosBase\\obj\\",
->>>>>>> Stashed changes
+        "projectPath": "C:\\Users\\Usuário\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuário\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,6 +48,10 @@
             "ClosedXML": {
               "target": "Package",
               "version": "[0.102.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.32, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -88,10 +80,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -100,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

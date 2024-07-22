@@ -63,16 +63,12 @@ namespace EmprestimosBase.Controllers
 
         }
 
-<<<<<<< Updated upstream
         [HttpGet]
-=======
- 
->>>>>>> Stashed changes
+
         public IActionResult Exportar()
         {
             var dados = GetDados();
 
-<<<<<<< Updated upstream
             using (XLWorkbook workBook = new XLWorkbook())
             {
                 workBook.AddWorksheet(dados, "Dados Empréstimos");
@@ -80,16 +76,7 @@ namespace EmprestimosBase.Controllers
                 {
                     workBook.SaveAs(ms);
                     return File(ms.ToArray(), "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "Emprestimo.xls");
-=======
-            using (XLWorkbook workBook = new XLWorkbook()) 
-            {
-                workBook.AddWorksheet(dados,"Dados Empréstimo");
 
-                using (MemoryStream ms = new MemoryStream())
-                {
-                    workBook.SaveAs(ms);
-                    return File(ms.ToArray(), "application/vnd.openxmlformats-officedocument.spredsheetml.sheet","Emprestimo.xls");
->>>>>>> Stashed changes
                 }
 
             }
@@ -97,33 +84,22 @@ namespace EmprestimosBase.Controllers
 
         private DataTable GetDados()
         {
-<<<<<<< Updated upstream
+
             DataTable dataTable = new DataTable();
 
             dataTable.TableName = "Dados emprestimos";
-=======
 
-            DataTable dataTable = new DataTable();
-
-            dataTable.TableName = "Dados empréstimos";
->>>>>>> Stashed changes
 
             dataTable.Columns.Add("Recebedor", typeof(string));
             dataTable.Columns.Add("Fornecedor", typeof(string));
             dataTable.Columns.Add("Livro", typeof(string));
-<<<<<<< Updated upstream
+
             dataTable.Columns.Add("Data última atualização", typeof(DateTime));
 
             var dados = _db.Emprestimos.ToList();
 
             if (dados.Count > 0)
-=======
-            dataTable.Columns.Add("Data empréstimo", typeof(DateTime));
 
-            var dados = _db.Emprestimos.ToList();
-
-            if(dados.Count > 0)
->>>>>>> Stashed changes
             {
                 dados.ForEach(emprestimo =>
                 {
@@ -132,15 +108,8 @@ namespace EmprestimosBase.Controllers
             }
 
             return dataTable;
-<<<<<<< Updated upstream
-
         }
 
-=======
-        }
-
-
->>>>>>> Stashed changes
 
         [HttpPost]
         public IActionResult Cadastrar(EmprestimosModel emprestimo)
@@ -148,10 +117,6 @@ namespace EmprestimosBase.Controllers
             if (ModelState.IsValid)
             {
                 emprestimo.DataEmprestimo = DateTime.Now;
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
                 _db.Emprestimos.Add(emprestimo);
                 _db.SaveChanges();
                 TempData["MensagemSucesso"] = "Cadastro realizado com sucesso!";
@@ -170,15 +135,11 @@ namespace EmprestimosBase.Controllers
             {
                 var emprestimoDB = _db.Emprestimos.Find(emprestimo.Id);
 
-<<<<<<< Updated upstream
+
                 emprestimoDB.LivroEmprestado = emprestimo.LivroEmprestado;
                 emprestimoDB.Recebedor = emprestimo.Recebedor;
                 emprestimoDB.Fornecedor = emprestimo.Fornecedor;
-=======
-                emprestimoDB.Fornecedor = emprestimo.Fornecedor;
-                emprestimoDB.Recebedor = emprestimo.Recebedor;
-                emprestimoDB.LivroEmprestado = emprestimo.LivroEmprestado;
->>>>>>> Stashed changes
+
 
                 _db.Emprestimos.Update(emprestimoDB);
                 _db.SaveChanges();

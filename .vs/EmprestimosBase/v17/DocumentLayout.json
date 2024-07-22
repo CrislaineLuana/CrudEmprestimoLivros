@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\source\\repos\\CrudEmprestimoLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97E7FD-3BCC-4FBE-AF2D-CE7FCC51B42A}|EmprestimosBase\\EmprestimosBase.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\crudemprestimolivros\\emprestimosbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97E7FD-3BCC-4FBE-AF2D-CE7FCC51B42A}|EmprestimosBase\\EmprestimosBase.csproj|solutionrelative:emprestimosbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97E7FD-3BCC-4FBE-AF2D-CE7FCC51B42A}|EmprestimosBase\\EmprestimosBase.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\crudemprestimolivros\\emprestimosbase\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97E7FD-3BCC-4FBE-AF2D-CE7FCC51B42A}|EmprestimosBase\\EmprestimosBase.csproj|solutionrelative:emprestimosbase\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97E7FD-3BCC-4FBE-AF2D-CE7FCC51B42A}|EmprestimosBase\\EmprestimosBase.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\crudemprestimolivros\\emprestimosbase\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97E7FD-3BCC-4FBE-AF2D-CE7FCC51B42A}|EmprestimosBase\\EmprestimosBase.csproj|solutionrelative:emprestimosbase\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97E7FD-3BCC-4FBE-AF2D-CE7FCC51B42A}|EmprestimosBase\\EmprestimosBase.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\crudemprestimolivros\\emprestimosbase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D97E7FD-3BCC-4FBE-AF2D-CE7FCC51B42A}|EmprestimosBase\\EmprestimosBase.csproj|solutionrelative:emprestimosbase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\Program.cs",
+              "RelativeDocumentMoniker": "EmprestimosBase\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\Program.cs",
+              "RelativeToolTip": "EmprestimosBase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:35:52.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmprestimosModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\Models\\EmprestimosModel.cs",
+              "RelativeDocumentMoniker": "EmprestimosBase\\Models\\EmprestimosModel.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\Models\\EmprestimosModel.cs",
+              "RelativeToolTip": "EmprestimosBase\\Models\\EmprestimosModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:34:48.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "EmprestimosBase\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "EmprestimosBase\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADwv6wAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:33:55.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\appsettings.json",
+              "RelativeDocumentMoniker": "EmprestimosBase\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\appsettings.json",
+              "RelativeToolTip": "EmprestimosBase\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T08:31:06.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
