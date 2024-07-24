@@ -7342,11 +7342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuário\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj",
+      "projectUniqueName": "C:\\Users\\Usuário\\Source\\Repos\\CrudEmprestimoLivros-loginnn\\EmprestimosBase\\EmprestimosBase.csproj",
       "projectName": "EmprestimosBase",
-      "projectPath": "C:\\Users\\Usuário\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj",
+      "projectPath": "C:\\Users\\Usuário\\Source\\Repos\\CrudEmprestimoLivros-loginnn\\EmprestimosBase\\EmprestimosBase.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuário\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\obj\\",
+      "outputPath": "C:\\Users\\Usuário\\Source\\Repos\\CrudEmprestimoLivros-loginnn\\EmprestimosBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",

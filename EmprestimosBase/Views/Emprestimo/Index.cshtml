@@ -7,22 +7,12 @@
 
     <div class="d-flex justify-content-between align-items-center mb-5" >
        <h1>Empréstimos</h1>
-<<<<<<< Updated upstream
 
        <div>
             <a class="btn btn-success mx-2" asp-controller="Emprestimo"  asp-action="Exportar"><i class="bi bi-file-earmark-plus mx-2"></i>Exportar</a>
             <a class="btn btn-success mx-2" asp-controller="Emprestimo"  asp-action="Cadastrar"><i class="bi bi-file-earmark-plus mx-2"></i>Cadastrar novo empréstimo</a>
         </div>
-=======
-            
-            <div>
-                <a class="btn btn-success mx-2" asp-controller="Emprestimo" asp-action="Exportar"  ><i class="bi bi-file-earmark-plus"></i>Exportar</a>
-                <a class="btn btn-success mx-2" asp-controller="Emprestimo" asp-action="Cadastrar"  ><i class="bi bi-file-earmark-plus"></i>Cadastar novo empréstimo</a>
-            </div>
-             
 
-      
->>>>>>> Stashed changes
     </div>
     @if(TempData["MensagemSucesso"] != null){
         <div class="alert alert-success text-light" role="alert">
@@ -44,11 +34,9 @@
           <th scope="col">Recebedor</th>
           <th scope="col">Fornecedor</th>
           <th scope="col">Livro</th>
-<<<<<<< Updated upstream
+
           <th scope="col">Data empréstimo</th>
-=======
-          <th scope="col">Data Empréstimo</th>
->>>>>>> Stashed changes
+
           <th></th>
         </tr>
       </thead>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+HMG2b1bFfg=",
+  "dgSpecHash": "rKnbK4yj9EU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuário\\source\\repos\\CrudEmprestimoLivros\\EmprestimosBase\\EmprestimosBase.csproj",
+  "projectFilePath": "C:\\Users\\Usuário\\Source\\Repos\\CrudEmprestimoLivros-loginnn\\EmprestimosBase\\EmprestimosBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuário\\.nuget\\packages\\closedxml\\0.102.1\\closedxml.0.102.1.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
